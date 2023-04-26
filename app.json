@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lent-to",
+    "slug": "lent-to",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
